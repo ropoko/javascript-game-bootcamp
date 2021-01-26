@@ -1,2 +1,2 @@
 # javascript-game-bootcamp
-this repository is for the Digital Innovation One bootcamp activities
+This repository is for the [Digital Innovation One bootcamp activities](https://web.digitalinnovation.one/track/javascript-game-developer?tab=path)
